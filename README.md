@@ -1,4 +1,6 @@
 # AAStar
+**deprecated**
+merge into [https://github.com/AAStarCommunity/AAStar_SDK](https://github.com/AAStarCommunity/AAStar_SDK)
 AAStar npm packages collection:
 You can use 
 ```
